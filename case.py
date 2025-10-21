@@ -17,5 +17,5 @@ while True:
             print("Boa Noite!")
         case 4:
             print("Xau Xau!")
-            break 
+            break
 
